@@ -1,6 +1,6 @@
 # Afghan Future Hope — Final Project
 
-A six-page, buildless HTML/CSS/JavaScript release of the provided Afghan Future Hope Endterm project. Project owner credited in the supplied work: **Aman Islami, IT-2510**. AI assistance is disclosed in About and the report.
+A six-page, buildless HTML/CSS/JavaScript release of the provided Afghan Future Hope Endterm project. Project owner credited in the supplied work: **Aman Islami, IT-2510**.
 
 ## Run the project
 
@@ -59,5 +59,3 @@ Read `docs/DEFENSE_GUIDE.md` to understand the code. The teacher grades your own
 - `images/`, `fonts/`: local assets retained from the Endterm.
 - `docs/`: report source, screenshot, verification notes, defense and submission guidance.
 - `tests/`: reproducible storage checks and optional browser checks.
-
-The original Git history is not rewritten or fabricated. The final source should be integrated into the approved existing repository while retaining its actual history.
