@@ -1,0 +1,11 @@
+{
+  "name": "afghan-future-hope-final",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A buildless front-end education project. Node is optional and used only for testing.",
+  "scripts": {
+    "test": "node --test tests/storage.test.cjs",
+    "test:browser": "playwright test",
+    "test:report": "playwright show-report"
+  }
+}
